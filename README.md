@@ -1,2 +1,2 @@
 # QQSlidingMenu
-模仿QQ界面侧滑栏效果的Demo
+类似QQ的SlidingMenu抽屉
